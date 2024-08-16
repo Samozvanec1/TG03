@@ -8,7 +8,7 @@ import asyncio #эта библиотека для асинхронной раб
 import logging #эта библиотека для логирования бота
 import sqlite3 #эта библиотека для работы с базами данных (для хранения состояний бота)
 
-API_TOKEN = '7409932170:AAHcOW33Hdb87tHFXshCLVZZoMxalf4_JaQ'
+API_TOKEN = ''
 
 logging.basicConfig(level=logging.INFO)
 

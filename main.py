@@ -9,8 +9,8 @@ import aiohttp
 import logging
 import sqlite3
 
-API_TOKEN = '7409932170:AAHcOW33Hdb87tHFXshCLVZZoMxalf4_JaQ'
-WEATHER_API_KEY = '36a4f6fa8b6860533a636d4c755cbc8e'
+API_TOKEN = ''
+WEATHER_API_KEY = ''
 
 logging.basicConfig(level=logging.INFO)
 
